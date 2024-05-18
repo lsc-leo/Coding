@@ -1,3 +1,4 @@
 print("helloworld")
-msg = 'Tihs is my message'
-print(msg)
+msg = 'This is my message'
+msg2 = "Both apostrophes and this other stuff work"
+print(msg + " - " + msg2)
